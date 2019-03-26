@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - NoFireDamage
+  - Fire
   - 
   - 
   - 
@@ -44,12 +44,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Overlay
-    uniqueID: 1166657033
-    locked: 0
   - name: Game Entities
     uniqueID: 3398346027
     locked: 0
   - name: DoorWays
     uniqueID: 2511310111
+    locked: 0
+  - name: Overlay
+    uniqueID: 1166657033
     locked: 0
